@@ -5,4 +5,4 @@ Classes taken so far are:
 1. Linear Programming (used AMPL)
 2. Network Optimization (used Python)
 3. Supply Chain Optimization (used Python)
-4. Computing (used multiple tools and languages, including R)
+4. Computing (used multiple tools and languages, including R and C)
