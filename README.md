@@ -13,5 +13,6 @@ Classes taken so far are:
 
 Self-learning subjects:
 1. Algorithms
-2. Machine Learning 
+2. Machine Learning (Neural Networks)
 3. Scala 
+4. Mathematical Statistics
