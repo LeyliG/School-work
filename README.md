@@ -1,18 +1,18 @@
-# School-work
-This repo is for code I wrote for problems assigned as part of my graduate level classes or solutions for related problems.
+# BUAD 5722 - Big Data
+# Spring 2019
 
-Classes taken so far are:
-1. Linear Programming (used AMPL)
-2. Network Optimization (used Python)
-3. Supply Chain Optimization (used Python)
-4. Computing (used multiple tools and languages, including R)
-5. Probability
-6. Data Mining (using R)
-7. Big Data (using Hadoop and AWS)
+Course Instructor: Joe Wilck, Ph.D., P.E
 
+Course Objectives:
+  1. Understanding of the concepts of Big Data, why it is being used, and examples of how
+     it is driving business decisions; 
+  2. Skills using some current Big Data tools:
+        - Including MapReduce and Spark techniques, using Hadoop, an open source framework
+          that implements MapReduce on large-scale data sets.
+        - Other Big Data tools are used, including Amazon Web Services.
 
-Self-learning subjects:
-1. Algorithms
-2. Machine Learning (Neural Networks)
-3. Scala 
-4. Mathematical Statistics
+Textbook:
+Mining of Massive Datasets. Jure Leskovec, Anand Rajaraman, and Jeffrey D. Ullman. 
+PDF version is available for free at: http://www.mmds.org/ 
+
+Assignments: 3 individual and 4 group projects.
