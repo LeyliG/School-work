@@ -16,3 +16,4 @@ Self-learning subjects:
 2. Machine Learning (Neural Networks)
 3. Scala 
 4. Mathematical Statistics
+5. Python for Data Science
