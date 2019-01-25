@@ -25,10 +25,10 @@ Topics:
 
 
 Problem Set Topics:
-PS1: Linear Regression and R (Lecs 1-3)
-PS2: Classification, KNN, LDA, QDA, Accuracy & Evaluation (Lecs 4-7)
-PS3: Logistic Regression, Cross-Validation, Subset-selection, Ridge & LASSO (Lecs 8-11)
-PS4: Splines, GAMS, Clustering (Lecs 14-16)
-PS5: PCA/FA, Association Rules (Lecs 17-19)
-PS6: Tree-based Methods and Random Forests (Lecs 21-23)
+-- PS1: Linear Regression and R (Lecs 1-3)
+-- PS2: Classification, KNN, LDA, QDA, Accuracy & Evaluation (Lecs 4-7)
+-- PS3: Logistic Regression, Cross-Validation, Subset-selection, Ridge & LASSO (Lecs 8-11)
+-- PS4: Splines, GAMS, Clustering (Lecs 14-16)
+-- PS5: PCA/FA, Association Rules (Lecs 17-19)
+-- PS6: Tree-based Methods and Random Forests (Lecs 21-23)
 
