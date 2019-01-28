@@ -1,0 +1,11 @@
+MapReduce Concepts Covered
+
+• Sorting out data in the Mapper stage that we do not wish to evaluate.
+• Incorporating other functions within our MapReduce program.
+• Incorporating regular expressions within our MapReduce program.
+• Completing a multiple MapReduce steps within a single program.
+• Using a Combiner within MapReduce
+
+Examples:
+1. MapReduce Example (Min Temp and Max Temp)
+2. MapReduce Example (Word Count)
