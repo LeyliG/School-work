@@ -1,14 +1,45 @@
 # DA0101EN - Data Analysis with Python by cognitiveclass.ai
 # Second course of the "Applied Data Science with Python" learning path
 # https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DA0101EN+2017/info
+# In progress: January 2019
 
 Learning Objectives: learn how to prepare data for analysis, perform simple statistical analyses, 
                      create meaningful data visualizations, predict future trends from data, and more!
                      
-Topics include:
-  - Data Wrangling
-  - Exploratory Data Analysis
-  - Model Development
-  - Over Fitting, Under fitting and Model Selection 
-  - Ridge Regression
+COURSE SYLLABUS
+  Module 1 - Importing Datasets
+      Learning Objectives
+      Understanding the Domain
+      Understanding the Dataset
+      Python package for data science
+      Importing and Exporting Data in Python
+      Basic Insights from Datasets
+
+  Module 2 - Cleaning and Preparing the Data
+
+      Identify and Handle Missing Values
+      Data Formatting
+      Data Normalization Sets
+      Binning
+      Indicator variables
+
+  Module 3 - Summarizing the Data Frame
+      Descriptive Statistics
+      Basic of Grouping
+      ANOVA
+      Correlation
+      More on Correlation
+
+  Module 4 - Model Development
+      Simple and Multiple Linear Regression
+      Model Evaluation Using Visualization
+      Polynomial Regression and Pipelines
+      R-squared and MSE for In-Sample Evaluation
+      Prediction and Decision Making
   
+  Module 5 - Model Evaluation
+      Model  Evaluation
+      Over-fitting, Under-fitting and Model Selection
+      Ridge Regression
+      Grid Search
+      Model Refinement
