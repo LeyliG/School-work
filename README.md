@@ -9,6 +9,7 @@ Classes taken so far are:
 5. Probability
 6. Data Mining (using R)
 7. Big Data (using Hadoop and AWS)
+8. Network Location Theory (used AMPL)
 
 
 Self-learning subjects:
