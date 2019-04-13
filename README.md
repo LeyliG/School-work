@@ -8,7 +8,7 @@ Classes taken so far are:
 4. Computing (used multiple tools and languages, including R)
 5. Probability
 6. Data Mining (using R)
-7. Big Data (using Hadoop and AWS)
+7. Big Data (using Hadoop, MapReduce, Spark, Scala, and AWS)
 8. Network Location Theory (used AMPL)
 
 
@@ -17,4 +17,3 @@ Self-learning subjects:
 2. Machine Learning (Neural Networks)
 3. Scala 
 4. Mathematical Statistics
-5. Python for Data Science
