@@ -10,10 +10,12 @@ Classes taken so far are:
 6. Data Mining (using R)
 7. Big Data (using Hadoop, MapReduce, Spark, Scala, and AWS)
 8. Network Location Theory (used AMPL)
+9. Simulation and Modeling (used R and SIMAN/Arena)
+10. Applied Linear Regression (used R, Minitab, and Excel)
+11. Database Management (MySQL)
 
 
 Self-learning subjects:
 1. Algorithms
 2. Machine Learning (Neural Networks)
-3. Scala 
 4. Mathematical Statistics
