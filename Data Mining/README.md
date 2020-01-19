@@ -32,3 +32,4 @@ Problem Set Topics:
 -- PS5: PCA/FA, Association Rules (Lecs 17-19)
 -- PS6: Tree-based Methods and Random Forests (Lecs 21-23)
 
+Labs and assignments coming soon.
