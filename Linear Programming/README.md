@@ -19,3 +19,5 @@ The course does not have a required text book. Lecture notes will be posted to t
 •	V. Chvatal, Linear Programming. 
 •	R. Fourer, AMPL: a modeling language for mathematical programming. Available online at http://www.ampl.com/BOOK/download.html 
 •	Bradley, Hax, and Magnanti: Applied Mathematical Programming. http://web.mit.edu/15.053/www/AMP.htm
+
+AMPL code coming soon.
