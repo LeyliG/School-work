@@ -16,3 +16,5 @@ Mining of Massive Datasets. Jure Leskovec, Anand Rajaraman, and Jeffrey D. Ullma
 PDF version is available for free at: http://www.mmds.org/ 
 
 Assignments: 3 individual and 4 group projects.
+
+More labs and assignments coming soon.
